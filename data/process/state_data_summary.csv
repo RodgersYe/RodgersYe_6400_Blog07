@@ -1,0 +1,101 @@
+dataset,state,state_abbr,observed_rows,unique_years,missing_years,extra_rows,duplicate_rows,invalid_values,state_name_errors,series_id_errors,status
+Real GDP,Alabama,AL,26,26,0,0,0,0,0,0,PASS
+Real GDP,Alaska,AK,26,26,0,0,0,0,0,0,PASS
+Real GDP,Arizona,AZ,26,26,0,0,0,0,0,0,PASS
+Real GDP,Arkansas,AR,26,26,0,0,0,0,0,0,PASS
+Real GDP,California,CA,26,26,0,0,0,0,0,0,PASS
+Real GDP,Colorado,CO,26,26,0,0,0,0,0,0,PASS
+Real GDP,Connecticut,CT,26,26,0,0,0,0,0,0,PASS
+Real GDP,Delaware,DE,26,26,0,0,0,0,0,0,PASS
+Real GDP,Florida,FL,26,26,0,0,0,0,0,0,PASS
+Real GDP,Georgia,GA,26,26,0,0,0,0,0,0,PASS
+Real GDP,Hawaii,HI,26,26,0,0,0,0,0,0,PASS
+Real GDP,Idaho,ID,26,26,0,0,0,0,0,0,PASS
+Real GDP,Illinois,IL,26,26,0,0,0,0,0,0,PASS
+Real GDP,Indiana,IN,26,26,0,0,0,0,0,0,PASS
+Real GDP,Iowa,IA,26,26,0,0,0,0,0,0,PASS
+Real GDP,Kansas,KS,26,26,0,0,0,0,0,0,PASS
+Real GDP,Kentucky,KY,26,26,0,0,0,0,0,0,PASS
+Real GDP,Louisiana,LA,26,26,0,0,0,0,0,0,PASS
+Real GDP,Maine,ME,26,26,0,0,0,0,0,0,PASS
+Real GDP,Maryland,MD,26,26,0,0,0,0,0,0,PASS
+Real GDP,Massachusetts,MA,26,26,0,0,0,0,0,0,PASS
+Real GDP,Michigan,MI,26,26,0,0,0,0,0,0,PASS
+Real GDP,Minnesota,MN,26,26,0,0,0,0,0,0,PASS
+Real GDP,Mississippi,MS,26,26,0,0,0,0,0,0,PASS
+Real GDP,Missouri,MO,26,26,0,0,0,0,0,0,PASS
+Real GDP,Montana,MT,26,26,0,0,0,0,0,0,PASS
+Real GDP,Nebraska,NE,26,26,0,0,0,0,0,0,PASS
+Real GDP,Nevada,NV,26,26,0,0,0,0,0,0,PASS
+Real GDP,New Hampshire,NH,26,26,0,0,0,0,0,0,PASS
+Real GDP,New Jersey,NJ,26,26,0,0,0,0,0,0,PASS
+Real GDP,New Mexico,NM,26,26,0,0,0,0,0,0,PASS
+Real GDP,New York,NY,26,26,0,0,0,0,0,0,PASS
+Real GDP,North Carolina,NC,26,26,0,0,0,0,0,0,PASS
+Real GDP,North Dakota,ND,26,26,0,0,0,0,0,0,PASS
+Real GDP,Ohio,OH,26,26,0,0,0,0,0,0,PASS
+Real GDP,Oklahoma,OK,26,26,0,0,0,0,0,0,PASS
+Real GDP,Oregon,OR,26,26,0,0,0,0,0,0,PASS
+Real GDP,Pennsylvania,PA,26,26,0,0,0,0,0,0,PASS
+Real GDP,Rhode Island,RI,26,26,0,0,0,0,0,0,PASS
+Real GDP,South Carolina,SC,26,26,0,0,0,0,0,0,PASS
+Real GDP,South Dakota,SD,26,26,0,0,0,0,0,0,PASS
+Real GDP,Tennessee,TN,26,26,0,0,0,0,0,0,PASS
+Real GDP,Texas,TX,26,26,0,0,0,0,0,0,PASS
+Real GDP,Utah,UT,26,26,0,0,0,0,0,0,PASS
+Real GDP,Vermont,VT,26,26,0,0,0,0,0,0,PASS
+Real GDP,Virginia,VA,26,26,0,0,0,0,0,0,PASS
+Real GDP,Washington,WA,26,26,0,0,0,0,0,0,PASS
+Real GDP,West Virginia,WV,26,26,0,0,0,0,0,0,PASS
+Real GDP,Wisconsin,WI,26,26,0,0,0,0,0,0,PASS
+Real GDP,Wyoming,WY,26,26,0,0,0,0,0,0,PASS
+Population,Alabama,AL,26,26,0,0,0,0,0,0,PASS
+Population,Alaska,AK,26,26,0,0,0,0,0,0,PASS
+Population,Arizona,AZ,26,26,0,0,0,0,0,0,PASS
+Population,Arkansas,AR,26,26,0,0,0,0,0,0,PASS
+Population,California,CA,26,26,0,0,0,0,0,0,PASS
+Population,Colorado,CO,26,26,0,0,0,0,0,0,PASS
+Population,Connecticut,CT,26,26,0,0,0,0,0,0,PASS
+Population,Delaware,DE,26,26,0,0,0,0,0,0,PASS
+Population,Florida,FL,26,26,0,0,0,0,0,0,PASS
+Population,Georgia,GA,26,26,0,0,0,0,0,0,PASS
+Population,Hawaii,HI,26,26,0,0,0,0,0,0,PASS
+Population,Idaho,ID,26,26,0,0,0,0,0,0,PASS
+Population,Illinois,IL,26,26,0,0,0,0,0,0,PASS
+Population,Indiana,IN,26,26,0,0,0,0,0,0,PASS
+Population,Iowa,IA,26,26,0,0,0,0,0,0,PASS
+Population,Kansas,KS,26,26,0,0,0,0,0,0,PASS
+Population,Kentucky,KY,26,26,0,0,0,0,0,0,PASS
+Population,Louisiana,LA,26,26,0,0,0,0,0,0,PASS
+Population,Maine,ME,26,26,0,0,0,0,0,0,PASS
+Population,Maryland,MD,26,26,0,0,0,0,0,0,PASS
+Population,Massachusetts,MA,26,26,0,0,0,0,0,0,PASS
+Population,Michigan,MI,26,26,0,0,0,0,0,0,PASS
+Population,Minnesota,MN,26,26,0,0,0,0,0,0,PASS
+Population,Mississippi,MS,26,26,0,0,0,0,0,0,PASS
+Population,Missouri,MO,26,26,0,0,0,0,0,0,PASS
+Population,Montana,MT,26,26,0,0,0,0,0,0,PASS
+Population,Nebraska,NE,26,26,0,0,0,0,0,0,PASS
+Population,Nevada,NV,26,26,0,0,0,0,0,0,PASS
+Population,New Hampshire,NH,26,26,0,0,0,0,0,0,PASS
+Population,New Jersey,NJ,26,26,0,0,0,0,0,0,PASS
+Population,New Mexico,NM,26,26,0,0,0,0,0,0,PASS
+Population,New York,NY,26,26,0,0,0,0,0,0,PASS
+Population,North Carolina,NC,26,26,0,0,0,0,0,0,PASS
+Population,North Dakota,ND,26,26,0,0,0,0,0,0,PASS
+Population,Ohio,OH,26,26,0,0,0,0,0,0,PASS
+Population,Oklahoma,OK,26,26,0,0,0,0,0,0,PASS
+Population,Oregon,OR,26,26,0,0,0,0,0,0,PASS
+Population,Pennsylvania,PA,26,26,0,0,0,0,0,0,PASS
+Population,Rhode Island,RI,26,26,0,0,0,0,0,0,PASS
+Population,South Carolina,SC,26,26,0,0,0,0,0,0,PASS
+Population,South Dakota,SD,26,26,0,0,0,0,0,0,PASS
+Population,Tennessee,TN,26,26,0,0,0,0,0,0,PASS
+Population,Texas,TX,26,26,0,0,0,0,0,0,PASS
+Population,Utah,UT,26,26,0,0,0,0,0,0,PASS
+Population,Vermont,VT,26,26,0,0,0,0,0,0,PASS
+Population,Virginia,VA,26,26,0,0,0,0,0,0,PASS
+Population,Washington,WA,26,26,0,0,0,0,0,0,PASS
+Population,West Virginia,WV,26,26,0,0,0,0,0,0,PASS
+Population,Wisconsin,WI,26,26,0,0,0,0,0,0,PASS
+Population,Wyoming,WY,26,26,0,0,0,0,0,0,PASS
